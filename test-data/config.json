@@ -1,0 +1,6 @@
+{
+    "env":"qa",
+    "loginPageURL":"https://www.saucedemo.com",
+    "id":"standard_user",
+    "password":"secret_sauce"
+}
